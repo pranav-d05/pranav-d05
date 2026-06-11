@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Pranav Dhebe 👋
 
-<!--
-**pranav-d05/pranav-d05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Artificial Intelligence) @ VIIT Pune
 
-Here are some ideas to get you started:
+## About Me
+- Interested in Machine Learning, Deep Learning, LLMs and Agentic AI
+- Strong foundation in DSA, OOP, DBMS and Operating Systems
+- Building AI applications using LangChain and LangGraph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Languages: Python, C++, SQL
+- ML/DL: TensorFlow, PyTorch, Scikit-learn
+- GenAI: LangChain, LangGraph, RAG
+- Tools: Git, GitHub, Docker, MLflow
+
+## Featured Projects
+### Student Engagement Analysis
+CNN + GRU based engagement detection using the DAiSEE dataset.
+
+### Interview AI
+Agentic interview system built with LangChain and LangGraph.
+
+### Medical Chatbot
+RAG-powered medical assistant chatbot.
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/pranav-dhebe-24539828a
+- GitHub: github.com/pranav-d05
