@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Pranav Dhebe
 
-🎓 B.Tech in Computer Science & Engineering (Artificial Intelligence) at VIIT Pune
-📈 CGPA: 9.02
-🚀 AI Engineer passionate about Machine Learning, Generative AI, Agentic Systems, and MLOps
+🚀 AI Engineer passionate about Machine Learning, Generative AI, Agentic Systems, and MLOps.
 
 ---
 
@@ -35,8 +33,7 @@ Production-ready sentiment analysis system built with modern MLOps practices.
 
 **Tech Stack**
 
-* TF-IDF
-* SVM
+* ML
 * MLflow
 * DVC
 * Docker
@@ -57,28 +54,16 @@ Deep Learning pipeline for engagement prediction using the DAiSEE dataset.
 **Tech Stack**
 
 * TensorFlow
-* ResNet50
-* LSTM
-* GRU
-* Bayesian Optimization
+* OpenCV
+* Deep Learning
+* Optimization
+* Sequential Learning
 
 **Results**
 
 * 78% Validation Accuracy
 * 71% Test Accuracy
 * 0.83 Macro F1 Score
-
-### ⚙️ AI-Powered Analog Circuit Design System
-
-Industry project developed with UST Global.
-
-**Highlights**
-
-* Forward and inverse analog circuit design
-* XGBoost-based performance prediction
-* Bayesian Optimization and Optuna
-* LLM-assisted circuit design workflows
-* ngspice integration
 
 ---
 
@@ -135,12 +120,6 @@ Industry project developed with UST Global.
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pranav-d05)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🤝 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/pranav-dhebe-24539828a
@@ -155,4 +134,4 @@ Industry project developed with UST Global.
 
 ### ✨ Motto
 
-> Building intelligent systems that bridge research and real-world impact.
+> From machine learning models to agentic AI systems, I enjoy building technology that creates real-world impact.
